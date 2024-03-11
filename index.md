@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I'm a master degree candidate,studying at New York University,majoring Journalism and communication.
-This semester, I took a course called Textual Data Analysis. The course instructor, Chen Zhicong <a href="https://zhicongchen.github.io/" target="_blank">, asked us to post our coursework on the github platform, so I created this account.
+This semester, I took a course called Textual Data Analysis. The course instructor,<a href="https://zhicongchen.github.io/" target="_blank"> Chen Zhicong , asked us to post our coursework on the github platform, so I created this account.
 
 
 <!-- 
