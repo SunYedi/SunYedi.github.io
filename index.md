@@ -12,11 +12,11 @@ I am a pure novice when it comes to programming and coding. This semester I hope
 Outside of academia, I like watching anime, reading novels, watching movies, listening to music, listening to podcasts and playing badminton!
 
 ## Research Interests
-- **Gender Study:** 
+- **Gender Study** 
 - **Digital Marketing Communication** 
 
 
 ## Awards
-No awards to show for it.
+No awards to show for it.Hopefully, I can get one in the future.
 
 
