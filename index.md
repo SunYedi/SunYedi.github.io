@@ -12,10 +12,8 @@ I am a pure novice when it comes to programming and coding. This semester I hope
 Outside of academia, I like watching anime, reading novels, watching movies, listening to music, listening to podcasts and playing badminton!
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifold learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **Precision Medicine:** subpopulation identification, and personalized recommendation and treatment effect estimation
+- **Gender Study:** 
+- **Digital Marketing Communication** 
 
 
 ## Awards
