@@ -17,6 +17,6 @@ Outside of academia, I like watching anime, reading novels, watching movies, lis
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+No awards to show for it.
 
 
